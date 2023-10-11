@@ -1,6 +1,6 @@
 body
 {
-    color:red;text-align:center;
+    color:brown;text-align:center;
     font-family:'Courier New';
     size:16px;
     margin:0;
@@ -32,8 +32,7 @@ body
     border:1px solid #ddd;
     margin:0 auto
 }
-
-#container h1
+#container
 {
     font-size:20px
 }
