@@ -1,14 +1,13 @@
 body
 {
-    color:#333;text-align:center;
+    color:red;text-align:center;
     font-family:'Courier New';
     size:16px;
     margin:0;
     padding:0
 }
 
-<<<<<<< HEAD
-=======
+
 #cabecera
 {
     background:green;box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
@@ -18,7 +17,6 @@ body
     padding:.5em
 }
 
->>>>>>> cabecera
 #cabecera #tagline
 {
     padding:0 0 0 1em;
