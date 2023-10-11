@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color:brown;text-align:center;
+=======
+    color:blue;text-align:center;
+>>>>>>> cabecera
     font-family:'Courier New';
     size:16px;
     margin:0;
@@ -10,7 +14,7 @@ body
 
 #cabecera
 {
-    background:green;box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
+    background:purple;box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
     color:#fff;
     font-weight:700;
     margin:0;
