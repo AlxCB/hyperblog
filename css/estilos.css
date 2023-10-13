@@ -10,8 +10,9 @@ body
 
 #cabecera
 {
-    background:purple;box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
-    color:#fff;
+    background:white;
+    box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
+    color:black;
     font-weight:700;
     margin:0;
     padding:0.5em
@@ -46,5 +47,5 @@ body
     background: #777;
     color: white;
     text-align: center;
-    padding: 3;
+    padding: 90;
 }
