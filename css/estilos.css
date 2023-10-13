@@ -1,14 +1,10 @@
 body
 {
-<<<<<<< HEAD
     color:brown;text-align:center;
-=======
-    color:blue;text-align:center;
->>>>>>> cabecera
     font-family:'Courier New';
     size:16px;
     margin:0;
-    padding:0
+    padding:0;
 }
 
 
@@ -18,14 +14,14 @@ body
     color:#fff;
     font-weight:700;
     margin:0;
-    padding:.5em
+    padding:0.5em
 }
 
 #cabecera #tagline
 {
     padding:0 0 0 1em;
     font-weight:400;
-    font-size:.8em
+    font-size:0.8em
 }
 
 #container
@@ -44,4 +40,11 @@ body
 #post
 {
     padding:1em
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 3;
 }
